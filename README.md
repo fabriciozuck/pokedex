@@ -1,4 +1,4 @@
-Este projeto é uma Pokedex que permite aos usuários pesquisar informações sobre diferentes espécies de Pokémons. A aplicação é construída utilizando tecnologias web como HTML, CSS e JavaScript, além de uma API pública que fornece dados sobre os Pokémons.
+<h1> Este projeto é uma Pokedex que permite aos usuários pesquisar informações sobre diferentes espécies de Pokémons. A aplicação é construída utilizando tecnologias web como HTML, CSS e JavaScript, além de uma API pública que fornece dados sobre os Pokémons. </h1>
 
 Funcionalidades
 A Pokedex tem as seguintes funcionalidades:
