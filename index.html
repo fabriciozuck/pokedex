@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PokeDex</title>
+  <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="./css/style.css"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>PokeDex</h1>
+      <div class="form-group">
+        <input type="text" class="form-control" id="poke-name" placeholder="find your pokemon">      
+        
+      </div>
+
+      <button class="button-all" role="button">All</button>
+    
+      <ul class="sugestoes" style="display:grid"></ul>
+  
+    <ul data-js="pokedex" class="pokedex"></ul>
+  </div>  
+
+  <script src="./js/app.js"></script>
+</body>
+</html>
